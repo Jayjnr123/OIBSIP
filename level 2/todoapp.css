@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background:-webkit-repeating-radial-gradient(#9b8c9b,#ceff8f);
+    
+  }
+  
+  .body {
+    text-align: center;
+    margin-bottom: 20rem;
+    margin-bottom: 10rem;
+  }
+  
+  input, button {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
